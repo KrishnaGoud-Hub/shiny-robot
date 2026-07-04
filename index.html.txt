@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VK Group of Services</title>
+<style>
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#f5f5f5;
+color:#333;
+}
+header{
+background:#000;
+color:#FFD700;
+padding:20px;
+text-align:center;
+}
+nav{
+background:#222;
+padding:10px;
+text-align:center;
+}
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+}
+.hero{
+padding:60px 20px;
+text-align:center;
+background:#444;
+color:white;
+}
+section{
+padding:30px;
+}
+.products{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+gap:15px;
+}
+.card{
+background:white;
+padding:15px;
+border-radius:10px;
+box-shadow:0 2px 8px rgba(0,0,0,.2);
+}
+.button{
+display:inline-block;
+background:#25D366;
+color:white;
+padding:12px 20px;
+text-decoration:none;
+border-radius:8px;
+margin-top:10px;
+}
+footer{
+background:#000;
+color:white;
+text-align:center;
+padding:20px;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>VK Group of Services</h1>
+<p>Transforming Spaces with Premium Interior Solutions</p>
+</header>
+<nav>
+<a href="#">Home</a>
+<a href="#">Products</a>
+<a href="#">Gallery</a>
+<a href="#">Contact</a>
+</nav>
+<div class="hero">
+<h2>Poly Granite Sheets | UV Marble Sheets</h2>
+<p>Premium Interior Products at Best Prices</p>
+<a class="button"
+href="https://wa.me/919866363945">
+WhatsApp Us
+</a>
+</div>
+<section>
+<h2>Our Products</h2>
+<div class="products">
+<div class="card">
+<h3>Poly Granite Sheets</h3>
+<p>Premium Quality Designs</p>
+</div>
+<div class="card">
+<h3>UV Marble Sheets</h3>
+<p>Elegant Interior Finish</p>
+</div>
+<div class="card">
+<h3>PVC Wall Panels</h3>
+<p>Modern Decorative Panels</p>
+</div>
+<div class="card">
+<h3>WPC Louvers</h3>
+<p>Stylish Wall Decoration</p>
+</div>
+</div>
+</section>
+<section>
+<h2>Contact Us</h2>
+<p><b>VK Group of Services</b></p>
+<p>Shop No.5, Near Sub Register Office,<br>
+Siddipet - 502103</p>
+<p>?? WhatsApp: 9866363945</p>
+<p>?? Email:
+Krishnnavadlakonda45@gmail.com</p>
+</section>
+<footer>
+© 2026 VK Group of Services
+</footer>
+</body>
+</html>
+
